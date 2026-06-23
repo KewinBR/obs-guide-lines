@@ -2,6 +2,9 @@
 
 ## Introduction
 
+<img width="994" height="532" alt="image" src="https://github.com/user-attachments/assets/605650d5-bdc6-493b-bb2d-e8e1a5f2ca85" />
+
+
 The plugin template is meant to be used as a starting point for OBS Studio plugin development. It includes:
 
 * Boilerplate plugin source code
