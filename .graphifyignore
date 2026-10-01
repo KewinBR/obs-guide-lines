@@ -1,0 +1,8 @@
+# padrão dev-base: pastas geradas e repos que moram dentro deste (têm grafo próprio)
+Versions/
+graphify-out/
+node_modules/
+vendor/
+dist/
+.next/
+_Versions/
